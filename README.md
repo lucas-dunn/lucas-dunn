@@ -1,5 +1,5 @@
 
-# Hi, I’m Edward Guerrero! 👋  
+# Hi, 👋  
 
 🎮 **Game Developer** | 💻 **Full-stack Developer** | 🤖 **AI & Blockchain Enthusiast** | 🔍 **Reverse Engineer** | 📱 **Mobile App Creator**  
 
